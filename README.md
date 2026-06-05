@@ -31,13 +31,13 @@ streamlit run app.py
 
 ## 🛠️ Tech Stack
 
-| Tool - Purpose |
-|----------------|
-| **Python** - Core programming language |
-| **Pandas** - Data processing & analysis |
-| **Scikit-learn** - Collaborative filtering & cosine similarity |
-| **Streamlit** - Interactive web interface |
-| **Goodreads API** - Book data & ratings |
+| Tool | Purpose |
+|------|---------|
+| **Python** | Core programming language |
+| **Pandas** | Data processing & analysis |
+| **Scikit-learn** | Collaborative filtering & cosine similarity |
+| **Streamlit** | Interactive web interface |
+| **Goodreads API** | Book data & ratings |
 
 ---
 
@@ -61,13 +61,13 @@ similarity_matrix = cosine_similarity(user_rating_matrix)
 
 ## 📸 Features
 
-| Feature - Description |
-|-----------------------|
-| **Smart Filtering** - Collaborative filtering finds books you'll love |
-| **Genre Filters** - Browse by Fiction, Non-Fiction, Sci-Fi, Romance, etc. |
-| **Goodreads Integration** - See real ratings and book details |
-| **Quick Search** - Find books instantly by title or author |
-| **Recommendation Score** - See match percentage for each book |
+| Feature | Description |
+|---------|-------------|
+| **Smart Filtering** | Collaborative filtering finds books you'll love |
+| **Genre Filters** | Browse by Fiction, Non-Fiction, Sci-Fi, Romance, etc. |
+| **Goodreads Integration** | See real ratings and book details |
+| **Quick Search** | Find books instantly by title or author |
+| **Recommendation Score** | See match percentage for each book |
 
 ---
 
